@@ -26,7 +26,15 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
 
+  # integrate with robe in emacs
   gem 'pry'
+
+    # Use RSpec for specs
+  gem 'rspec-rails'
+
+   # Use Factory Girl for generating random test data
+  gem 'factory_girl_rails'
+
 end
 
 group :development do
