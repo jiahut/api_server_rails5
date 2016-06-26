@@ -1,24 +1,17 @@
-# README
+# api server build with rails5
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+integrate the best practice
 
-Things you may want to cover:
+* serializers
 
-* Ruby version
+* integrate with robe
 
-* System dependencies
+* rspec
 
-* Configuration
+* cors
 
-* Database creation
+* versioning api
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* rate limiting and throttling
 
 * ...
